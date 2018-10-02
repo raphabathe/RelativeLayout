@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LogInRelativo App</string>
+    <string name="register_new_account">Register new Account</string>
+    <string name="e_mail">e-mail</string>
+</resources>
